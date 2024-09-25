@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Urgenchbayev Alibek
+- 👋 Hi, I’m @Urgenchbayev_Alibek
 - 👀 I’m interested in C, C++, C#, Python 
 - 🌱 I’m currently learning C, C++, C#, Python 
 - 💞️ I’m looking to collaborate on ...
